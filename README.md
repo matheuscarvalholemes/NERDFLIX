@@ -1,2 +1,0 @@
-# NERDFLIX
-Meu projeto Alura
